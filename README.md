@@ -24,32 +24,34 @@ All participating players should have at least 2 seasons of ranked games with po
 ### 1.1.4: Team eligibility
 Teams are allowed to join if their "power score" is maximum of 228.
 _Note: the "power score" is calculated as a sum of the "power scores" of the players. The "power score" of a player is based on his S11 peak rank as follows:_
-| LoL Peak Rank   | Score |
-| --------------: | :---- |
-|  Below Silver 4 | 1     |
-|        Silver 4 | 1     |
-|        Silver 3 | 2     |
-|        Silver 2 | 3     |
-|        Silver 1 | 4     |
-|          Gold 4 | 6     |
-|          Gold 3 | 8     |
-|          Gold 2 | 10    |
-|          Gold 1 | 12    |
-|      Platinum 4 | 16    |
-|      Platinum 3 | 20    |
-|      Platinum 2 | 24    |
-|      Platinum 1 | 28    |
-|       Diamond 4 | 36    |
-|       Diamond 3 | 44    |
-|       Diamond 2 | 52    |
-|       Diamond 1 | 60    |
-| Above Diamond 1 | 60    |
+| LoL Peak Rank   | Score                                                   |
+| --------------: | :------------------------------------------------------ |
+|  Below Silver 4 | 1                                                       |
+|        Silver 4 | 1                                                       |
+|        Silver 3 | 2                                                       |
+|        Silver 2 | 3                                                       |
+|        Silver 1 | 4                                                       |
+|          Gold 4 | 6                                                       |
+|          Gold 3 | 8                                                       |
+|          Gold 2 | 10                                                      |
+|          Gold 1 | 12                                                      |
+|      Platinum 4 | 16                                                      |
+|      Platinum 3 | 20                                                      |
+|      Platinum 2 | 24                                                      |
+|      Platinum 1 | 28                                                      |
+|       Diamond 4 | 36                                                      |
+|       Diamond 3 | 44                                                      |
+|       Diamond 2 | 52                                                      |
+|       Diamond 1 | 60                                                      |
+| Above Diamond 1 | Not allowed. For specific cases, exceptions can be made |
 
 | Division in MXL | Max total points |
 | --------------: | :--------------- |
 |      Division 3 | 54               |
 |      Division 2 | 120              |
 |      Division 1 | 228              |
+
+_Note: Specific case can be player that reached Master but dropped immediately and was not able to reach Master tier again._
 
 ### 1.1.5 Secondary accounts
 Players are allowed to use secondary accounts in extreme situation as long as they announce to MXL all accounts they play ranked from in advance.
