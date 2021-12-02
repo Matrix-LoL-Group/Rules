@@ -366,11 +366,17 @@ Also, to access the banter channel, go get the role "Banter" in the "Select-Role
 - Any other rules = Staff will decide depending on the situation.
 
 ### 7.2 Warnings
+
 Getting 3 warnings means suspension from the next singular game.
+
 Getting 4 warnings means suspension from the next two singular games. 
+
 Getting 5 warnings means suspension from the next series. 
+
 Getting 6 warnings means suspension from playing the next 3 weeks.
+
 Getting 7 warnings means suspension from playing the rest of the split. 
+
 
 By applying for this league, you are hereby agreeing to all these rules. If found to be breaking any of them, you will be subjected to the punishments deemed appropriate by the staff team.
 
