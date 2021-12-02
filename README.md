@@ -16,13 +16,13 @@ Matrix League will analyze player's accounts and they will ask questions to be s
 Player's account must be eligible according to the terms of Name Conformity. (refer to [1.2](#12-name-conformity))
 
 ### 1.1.2 Account eligibility
-Player's account must be on the West European server (EUW).
+Player's account must be on the European West server (EUW).
 
-### 1.1.3: Player eligibility
-All participating players should have at least 2 seasons of ranked games with possible exceptions. (Season 10 and 11)
+### 1.1.3 Player eligibility
+All participating players must have played Ranked Solo/Duo queue in Season 11, aka have a rank from this season. All participating players must also play at least 15 games of Ranked Solo/Duo within February 1, 2022. This is to ensure every player is the owner of their account. The games must either be played on your main account on EUW, or your main account on any other server, if this is the case. Your main account must also be at least level 50.
 
-### 1.1.4: Team eligibility
-Teams are allowed to join if their "power score" is maximum of 228.
+### 1.1.4 Team eligibility
+Teams are allowed to join if their "power score" is not too high for the division limit. To see the division limits, check below: 
 _Note: the "power score" is calculated as a sum of the "power scores" of the players. The "power score" of a player is based on his S11 peak rank as follows:_
 | LoL Peak Rank   | Score                                                   |
 | --------------: | :------------------------------------------------------ |
@@ -43,66 +43,92 @@ _Note: the "power score" is calculated as a sum of the "power scores" of the pla
 |       Diamond 3 | 44                                                      |
 |       Diamond 2 | 52                                                      |
 |       Diamond 1 | 60                                                      |
-| Above Diamond 1 | Not allowed. For specific cases, exceptions can be made |
+|         Masters | 72 + Peak LP divided by 20                              |
 
 | Division in MXL | Max total points |
 | --------------: | :--------------- |
-|      Division 3 | 54               |
-|      Division 2 | 120              |
-|      Division 1 | 228              |
+|      Division 3 | 90               |
+|      Division 2 | 150              |
+|      Division 1 | 260              |
 
-_Note: Specific case can be player that reached Master but dropped immediately and was not able to reach Master tier again._
+_Note: Masters players can not play in any division below Division 1._
+_Note: Diamond players can not play in any division below Division 2._
 
-### 1.1.5 Secondary accounts
-Players are allowed to use secondary accounts in extreme situation as long as they announce to MXL all accounts they play ranked from in advance.
+### 1.1.5 Secondary accounts I
+Players are allowed to use secondary accounts in situations where their main account is on another server / is not accessible / the main account lack champions / the main account is banned. If the main account is banned, you must tell the MXL Staff of the reason of the ban.
 
 ### 1.1.6 Team settings
 Teams should announce their Team/Organization Manager, Coach, Team Captain, Team Members, etc. upon joining.
+
 ### 1.1.7 Eligibility check
 The Matrix League will inform the teams about their Team Members' eligibility upon completion of the vetting. This process may take up to one week.
+
 ### 1.1.8 Discord server
 All team members must be on our discord server, including staff. [Discord server: https://discord.gg/FF7c4fKYje](https://discord.gg/FF7c4fKYje)
+
 ## 1.2 Name Conformity
 Here is a list of what we consider inappropriate in all the names.
 - Names that suggest hate speech, slurs, or profanity, either implicitly or explicitly.
 - Most names that invoke or refer to something ethical or political.
 - Names containing insults, grotesque imagery, and strong vulgarity.
-- Name changes must be communicated to the organisation, at least, 48 hours before the next match. Name changes not communicated on time will invalidate the player for the next match.
+- Name changes must be communicated to the organisation, at least, 24 hours before the next match. Name changes not communicated on time will invalidate the player for the next match.
+
+
 # 2. Teams
 
 ## 2.1 Roster Requirements
-Each team must have minimum 5 and maximum 10 players in their team. Other team members are not included in it (Coach, Team Manager etc.). Players can be swapped through-out the split, there is no limit to used players. A new player to a team must be announced at least 24 hours before the next game.
-Teams have to register for the tournament using the [link to challenger mode - https://www.challengermode.com/s/VolyB/tournaments/e6656617-b62d-4a04-07bd-08d9630aa0cf](https://www.challengermode.com/s/VolyB/tournaments/e6656617-b62d-4a04-07bd-08d9630aa0cf).
+Each team must have minimum 5 and maximum 10 players in their team. Other team members are not included in it (Coach, Team Manager etc.). Players can be swapped through-out the split until the play-offs start. Every team is allowed a maximum of 12 players through-out the split. Joining with 10 players consume 10 spots, meaning you have 2 swaps left.
+A new player to a team must be announced at least 24 hours before the next game, unless you wish to lose bans (see Rule 2.2.6).
+Teams have to register for the tournament using the [link to challenger mode - https://www.challengermode.com/s/MatrixGroup/tournaments?state=upcoming](https://www.challengermode.com/s/MatrixGroup/tournaments?state=upcoming), and you must also register through the Google Forms Document in the Discord Server. 
 
 ### 2.1.1 Players
 Players are only allowed to be assigned to one team. Teams and players will adhere to the admins' decisions.
 
-### 2.1.2 Captain
+### 2.1.2 Team Captain
 The Team Captain is responsible for its own teams' behavior. The Captain will always be in contact with the Matrix League staff to prevent problems between the team and the league.
 
-### 2.1.3 Coach
-Coaches are exclusively bound to one team for the whole split. The Coach can stay with the team during champion selection to help with the Pick & Ban phase, leaving when the game starts.
+### 2.1.3 Team Manager
+The Team Manager is responsible for its own teams' behavior as well as The Captain. The Manager will be nominated as the Team Representative, and will participate in MXL Democratic Votings. The Team Manager will also be held responsible if the team is found to have "smurfs".
 
-### 2.1.4 Team Withdrawal
+### 2.1.4 Team Coach
+Coaches are not exclusively bound to one team, meaning they can coach multiple teams. When/If these teams play against each other, The Coach must stay neutral and can not participate. The Coach can stay with the team during champion selection to help with the Pick & Ban phase, leaving when the game starts. 
 
+### 2.1.5 Disqualification
+A team that is found to have broken enough rules the MXL Admins see fit, can be disqualified. All players from that team will be considered Free Agents unless stated as otherwise. All past and future games of this team will be forfeited.
+
+### 2.1.6 Team Withdrawal
 A team may withdraw themselves for any reason or at any time. All players from that team will be considered Free Agents unless stated as otherwise.
 
 ## 2.2 Roster Modification
-Rosters changes are allowed as long they are explicitly approved by the admins via the Admin Panel of the tournament in ChallengerMode.
+Rosters changes are allowed as long they are explicitly approved by the admins via the Tickets and in ChallengerMode.
 
 ### 2.2.1 Substitutes
-A Team may substitute a player between matches.
+A Team may substitute a player between matches. These changes must be announced to the opponent team BEFORE the draft. These must be listed in the squad-report to be allowed to play. If they are not listed, they are counted as an emergency substitute (See Rule 2.2.3)
 
-### 2.2.2 Roster Lock-In
-24 hours before the next game, the team captain or the team manager need to send the In-Game names of the 5 players that will play the series, including an op.gg multi search. If substitutes are to be used during the series these need to be listed below the 5 names as “substitutes”. The 5 players listed in the squad-report channel in Discord must play game 1 in the series. Failure to send the squad report at least 24 hours before the next game will lead to the offending team losing 3 bans the first game. Failure to do it within 12 hours before the next game will lead to the offending team losing 3 bans for the whole series. Failure to send a squad report at all will lead to the offending team forfeiting the series.
+### 2.2.2 Fill players
+A fill player is defined by a player that does not belong to the team the player is filling for. A fill player can belong to another team in this league, because the fill player is filling for one game/series. The fill must be listed in the squad-report, either as a starter or as a sub. The team using a fill player will lose 2 bans for each game the fill player is playing. The fill players' peak rank will be taken into consideration of the team's points to avoid it going over the max limit. It is the Team Manager and/or the Team Captain's responsibility to follow this.
+Fills cannot be used for Best of 5's.
 
+### 2.2.3 Emergency Substitutes
+An emergency substitute is defined by a player that is brought to play for a team, in a short period of time before the game is to be played, without this player being listed in the squad-report. An emergency substitute can not be a current player in another team in Matrix League. For every game the emergency substitute is playing, the offending team will lose 3 bans.
+
+### 2.2.4 Free Agency
+A Free Agent is a member or a player that does not belong to a team. These can be registered as players in teams. A player that is no longer playing in Matrix League because their team got knocked out is not counted as a Free Agent.
+
+### 2.2.5 Transfers
+A) A transfer is when a player leaves one team to join another team in Matrix League. This is doable by noticing admins of this in a ticket. However, a transfer is not possible if the player transferring is going away from a team that is knocked out of the tournament. If this player was released and is counted as a free agent before the team is knocked out, the transfer can go through. This means that if a team gets knocked out, all current players in this team can not transfer to another team, in the current split. They can still play as a fill (See rule 2.2.2).
+
+B) Assigning new players are not possible after the Group Stage / Regular Split is concluded. This meaning it is not possible to assign a new player when the Playoffs Week has started. For Split 1 2022, the deadline date is Sunday, February 6th.  
+
+### 2.2.6 Roster Lock-In
+A) 24 hours before the next game, the team captain or the team manager need to send the In-Game names of the 5 players that will play the series, including an op.gg multi search. If substitutes are to be used during the series these need to be listed below the 5 names as “substitutes”. The 5 players listed in the 24-h-squad-report must play game 1 in the series. Failure to send the squad report at least 24 hours before the next game will lead to the offending team losing 3 bans the first game. Failure to do it within 12 hours before the next game will lead to the offending team losing 3 bans for the whole series. Failure to send a squad report at all will lead to the offending team forfeiting the series.
 Players are free to lane swap and role swap at any point before/during/after draft.
 
-If one of the players is not available before the match, the team has 15 minutes to bring a substitute as a replacement. If a substitute that is listed in the squad report is brought, the offending team will lose 3 bans the first game.
+B) If one of the players is not available before the match, the team has 15 minutes to bring a substitute as a replacement. If a substitute that is listed in the squad report is brought, the offending team will lose 1 ban the first game. 
 
-In case of extreme situation when one of the teams needs to bring a player not listed in the roster, because the team has less than 5 people available for the match, the team can ask the MXL. This request must be approved by the admins, and the team using the unlisted player will lose 3 bans for all games through-out the series and all bans (5) in the first game of the series.
+C) If the team is unable to gather a full team to play the match, the team will automatically forfeit the game.
 
-If the team is unable to gather a full team to play the match, the team will automatically forfeit the game.
+D) If the two teams playing, schedule their next game to be less than 24 hours from the moment of the scheduling, the 24-hour rule will not be used towards the teams, as long as they communicate this with the MXL Staff. A squad-report is still needed, and the 12-hour rule still remains. 
 
 ### 2.3 Name - Tag – Logo
 Requirements to be met in adherence to team name/tag/logo rules.
@@ -112,41 +138,47 @@ Requirements to be met in adherence to team name/tag/logo rules.
 
 - Team must comply with the conditions of Name Eligibility.
 
-- Team names cannot be absurd, like "Milk Drinkers" etc. The team must have a unique name.
+- Team names can be absurd, like "Milk Drinkers" etc. The team must not have unique name. Team name can be anything you want as long it doesnt break our rules, see Rule 1.2: Name conformity.
+
+- The Team name and Team Tag can be in other alphabets than latin and they can include numbers and signs. 
 
 #### **2.3.2 Team Logo**
 
 - The team logo must be at least 200x200 in size and it must be a transparent PNG.
 
-- Logo must be copyright-free, and it must be a unique logo.
+- Logo must not be copyright-free, but it must not be a unique logo.
 
-- The team logo **cannot** be like [this](https://drive.google.com/file/d/1pj56b896av4SD8UqYIyIDixXBFxi_6LX/view?usp=sharing).
+- Logo can be absurd and funny, as long as it doesnt go against our rules. 
 
-_This logo is taken as an example._
-
-_Taken from_ [_Placeit.net_](https://placeit.net/)_._
+A member of the MXL staff must approve your logo. 
 
 _A member of the MXL staff must approve your logo_.
 
+
 ## 3. League & Playoffs Format
-### 3.1 Stage 1: Regular Split
-All teams will be put into divisions based on ranks, and each team will face each other once in a Bo3 format. The side-selection will be: The first game Team 1 play on blue side. The second game Team 1 play on red side. If there is a third game, the losing team of game 2 will decide side. Winning the series 2-0 will grant 3 points. Winning 2-1 will grant 2 points to the winning team and 1 point to the losing team.
+
+### 3.1 Stage 1: Regular Split / Group Stage
+All teams will be put into divisions based on ranks, and each team will face each other once in a Bo3 format. The side-selection will be: The first game Team 1 play on blue side. The second game Team 1 play on red side. If there is a third game, the losing team of game 2 will decide side. 
 
 For every MXL's official game, it is mandatory to use the specific voice channels for every team. Team staff are allowed to be in the voice channel until the game starts loading. Only the 5 people playing the game can be in the voice chat when the game starts.
 
 ### 3.2 Stage 2: Play-Offs
-Top 2 teams from every group group will take part in the play-offs of the tournament (we discuss this further)
+The top 4 teams of every group will advance to the Play-Offs. 8 teams from each division participates in the Play-Offs, in what will be a double elimination bracket. The Play-Offs last 6 weeks. 
 
 #### 3.2.1 Teams seeding
-The teams will get seeded automatically by ChallengerMode. (we discuss this further)
+The team seeding will be as follows: CODER OF WORLDS FIX THIS
+| Seed 1A | Seed 4B |
+| Seed 2B | Seed 3A |
+| Seed 1B | Seed 4A |
+| Seed 2A | Seed 3B |
 
 #### 3.2.2 Playoffs format
-Every match in the tournament will be played in Bo3 format EXCEPT the Semi-Finals and The Grand Final which will be played in Bo5 format.
+Every match in the tournament will be played in Best of 3 format EXCEPT The Upper Final, The Lower Final, and The Grand Final, which will be played in a Best of 5 format. 
 
 #### 3.2.3 Side selection
-The team with the higher seeding will choose their starting side in the first game played in Bo3 matches. Losing team will choose their side after game 1 concludes.
+The team with the higher seeding will choose their starting side in the first game played in Bo3 matches. In game 2, the teams switch side. 
 
-In the Final, the first game side selection will be determined by the automatic coin flip system at https://coinflip.com/flip-a-coin/.
+In The Grand Final, the first game side selection will be determined by the automatic coin flip system at https://coinflip.com/flip-a-coin/.
 
 ### 3.3 Game Lobby rules
 Game lobbies will be created by ChallengerMode. All players and spectators can join it via the generated by the system code.
@@ -155,8 +187,9 @@ Game lobbies will be created by ChallengerMode. All players and spectators can j
 **Map:** Summoner's Rift
 **Team Size:** 5
 **Game Type:** Tournament Draft
+
 ### 3.4 Entry fee
-There is no entry fee, the inscription for the league is free.
+There is no entry fee, the inscription for the league is free. If you feel like donating to the casters, this is heavily appreciated. 
 
 ### 3.5 New / Reworked Champions
 Newly released champions or champions that received a major gameplay update will be disabled in the league games for 2 weeks after release. Champions that are disabled after being released/reworked due to problems caused by their presence will endure the 4 weeks long period of exclusion from the tournament.
@@ -167,11 +200,14 @@ _Note: Follow the Discord server about any updates._
 - The Pick-&-Ban phase will be executed through DraftLoL - https://draftlol.dawe.gg/
 - The same Champions need to be banned when you're picking your champs in the client.
 - Every player picks his/hers own champion in the client no matter the draft order in DraftLoL.
+- 
 ### 3.7 Game Bugs
 A game will be restarted, and draft will be remade if game breaking bugs occur.
 If there is a fault that interrupts the loading of a player into a game, such as a BUGSPLAT or disconnection, the game must be immediately paused for up to 15 minutes.
 Pauses in the middle of the game are allowed if a player suddenly gets a game breaking issues like lag, FPS drop, disconnect, budsplash, "blue screen of death", etc.
+
 ## 4. Stream
+
 ### 4.1 Streaming Regulations
 Team members are allowed private streaming (over discord, skype, etc...) however there will be a public stream for everyone to watch if they wish to. You can live stream the games that are being broadcasted by the organisation in public however a 3-minute delay is a must. Every stream that is not organized by the MXL, can be announced in the Discord server if the streamer sends a link to an admin.
 
@@ -180,9 +216,18 @@ Team captains can invite up to one spectator each if they wish to do so.
 ### 4.2 Stream bugs
 If the MXL stream crashes during a game, the game must continue. After the end of the match, the winning team's captain must send the game VOD to MXL staff.
 
+### 4.3 Casting
+If a game between 2 teams is getting casted, both teams have to be ready 5 mins before hand, a.k.a.:
+- both teams have to be in a client lobby
+- both teams have to be prepared with draftlol links
+- the spectator link has to be sent to the caster in DM
+
+If the teams fail to prepare for the casted game or the preparation is delayed with 10 or more minutes because of unprovoked delays, the match is not getting casted, if the caster want this.
+
 ## 5. In-Game Etiquette
+
 ### 5.1 Chat Usage
-General use of /all chat is prohibited unless agreed to by each team's captains, however this must still remain in good faith and abide by the ruleset & Discord rules. Other usage of /all chat is permitted to give sportsmanlike at the start and end of the games, e.g. Good luck, have fun & gg. All other types of chat are prohibited and will result in penalties.
+General use of /all chat is prohibited unless agreed to by each team's captains, however this must still remain in good faith and abide by the ruleset & Discord rules. Other usage of /all chat is permitted to give sportsmanlike at the start and end of the games, e.g. Good luck, have fun & gg. All other types of chat are prohibited and will result in penalties. Examples of penalties is warnings. If this repeats itself 3 times, the offending player will be suspended from one single game.
 
 ### 5.2 Pausing the Game
 A game may be paused due to, but not limited to, unintentional disconnection or a real life emergency but each team is only permitted 15 minutes of pause time. If the pause exceeds 10 minutes, the staff team must be informed. If the pause exceeds 15 minutes, the pausing team will be subject to penalties.
@@ -197,7 +242,9 @@ A game may be resumed once both teams have verified they are ready to resume pla
 A game may be restarted if there are ongoing connection issues with one or more players due to server issues, game breaking bugs). This requires approval from the staff team.
 
 ## 6. Code of Conduct
+
 ### 6.1 Shares, Smurfs, and Sandbaggers
+
 #### 6.1.1 Suspicious Accounts
 Accounts that look suspicious may be suspended at staff discretion in order to allow for further investigation. The staff team reserves the right to suspend the player from playing until the investigation is over.
 
@@ -207,19 +254,22 @@ During an investigation the staff team will perform thorough and comprehensive e
 #### 6.1.3 Smurfing / Additional Accounts
 Smurfing is not allowed. Any additional account that you play rank from, needs to be announced.
 
-Note: If you miss any of the accounts, a penalty may be applied.
+_Note: If you miss any of the accounts, a penalty may be applied._
 
 #### 6.1.4 Account Sharing
-An account that has previously been shared with another person is not permitted to be used in MXL's League matches, even if the account was shared with a lower ranked player.
+An account that belongs to a player playing in Matrix League, can not be used in official games by anyone else than this player, aka the players' account can not be shared.
 
 #### 6.1.5 League Sandbagging
 At staff discretion, players that consistently perform above the division standard that they are in, may be rejected further admission to play in the same and lower divisions. This is to keep competitive integrity for all involved.
 
 #### 6.1.6 Botted Accounts
-Accounts suspected to be levelled up through "botting" are suspended from playing in MXL until proven otherwise by the player.
+Accounts suspected to be levelled up through "botting" are suspended from playing in MXL until proven otherwise by the player. This is only the cause if it is the main account of the player that is a botted account. Botted accounts can still be accepted in certain cases, for example if these accounts are secondary accounts to a player for them to use if they lack champions. 
 
 #### 6.1.7 Responsibility / Punishments
 Any player or organisational member, who is found to be knowingly having smurfs or people that account share playing with or for them will result in punishment as above. All games played by the team using these players will result in a forfeit and the results will be corrected accordingly.
+
+#### 6.1.8 Secondary Accounts II
+An account that belongs to a player, but is not this player's main account, must be given or announced to the MXL Staff for it to be allowed to play. The reason for using a secondary account must be that you either lack champions on your main account, your main account is banned (the ban reason can effect if you are allowed to participate), or if your main account is on another server. In the last case, that account must also be communicated to the MXL Staff. When using a secondary account, this account must be listed in the squad report together with the main account, and if a player is to play on it, this must be announced before the draft starts.
 
 #### 6.2 Competitive Conduct
 Repeated violations of what's listed below will result in penalties up to the discretion of the staff team. Unless expressly stated otherwise, offenses of these Official Rules are punishable whether or not they are committed intentionally.
@@ -238,6 +288,7 @@ Deliberately losing a game for any reason, or attempting to induce another playe
 ##### 6.2.1.2 Competitive Integrity
 Teams/Players are expected to play their best at all times within any MXL's League game. They should avoid any behavior that is inconsistent with the principles of good sportsmanship, honesty or fair play and should also adhere to the League of Legends Summoner's Code.
 If a player is within rank restrictions but is deemed to harm the league experience, the staff have the right to take any actions against that. This rule counts for all members of the organisation in question (coaches, analysts, team captains, team managers etc.).
+
 ##### 6.2.1.3 Hacking
 Hacking is defined by any modification to the League of Legends game client by any team, player or affiliate. MXL's organisation holds a zero tolerance policy towards hacking.
 
@@ -283,21 +334,43 @@ No team member or affiliate may offer a gift or compensation to any player, coac
 ##### 6.2.3.7 Non-Compliance
 No team member may refuse or fail to follow the instructions or decisions of the staff members even if they feel it contradicts a rule. If the staff team feels a situation violates an unreasonable mistake or in the spirit of a rule we reserve the right to change a decision based on any situation we deem exceptional.
 
+##### 6.2.3.8 Bullying / Trash Talk
+No one is allowed to bully other members of this server in any of our channels. This also counts for trash talk, in the way of talking in negative way of other players or teams with intention of hurting them, or make them feel bad. Failure to follow this rule may result in punishments as warnings, mutes and/or bans.
+
+##### 6.2.3.9 Banter
+We do allow banter to happen in our server, as long as it creates exciting tension around players and teams in a positive way, but also in funny ways. This can make rivalries which can lead to exciting streams and matchups. It is however important that we see the difference between banter and bullying, as bullying is not allowed. Bantering about teams or players is allowed as long as it refers to gameplay within the league, and not attacks on the person itself. Failure to follow this rule may result in punishments as warnings, mutes and/or bans. 
+Also, to access the banter channel, go get the role "Banter" in the "Select-Roles" channel in the discord server. 
+
 ## 7. Penalties
+
 ### 7.1 Penalty reasons
-Picking new/reworked champ = restart of the champ select (if it is a single occurrence during the match – with multiple occurrences a ban will be taken away from the offending team for each offence).
 
-Over extended game pause = the game will continue if there is no valid reason to extend the pause beyond the 15-minute mark (if the offending team refuses to behave accordingly to set rules a fortification will be enforced).
+- Picking new/reworked champ = restart of the champ select (if it is a single occurrence during the match – with multiple occurrences a ban will be taken away from the offending team for each offence).
 
-Harassment & Sexual harassment = penalties wary from warning to permanent ban from community discord and all tournaments.
+- Over extended game pause = the game will continue if there is no valid reason to extend the pause beyond the 15-minute mark (if the offending team refuses to behave accordingly to set rules a fortification will be enforced).
 
-Not sending vod after being asked by a member of staff = warning.
+- Harassment & Sexual harassment = penalties wary from warning to permanent ban from community discord and all tournaments.
 
-Offending the dignity or integrity of a person or disclosing any confidential information provided by a staff member or disrespecting staff members = warning at first occurrence, permanent ban at second occurrence.
+- Not sending vod after being asked by a member of staff = warning.
 
-Hacking changing the client functions & Exploiting & & Using cheating device/program or similar method = offending player will be excluded from the ongoing tournament and affected game will be forfeited by the offending team.
+- Offending the dignity or integrity of a person or disclosing any confidential information provided by a staff member or disrespecting staff members = warning at first occurrence, permanent ban at second occurrence.
 
-Any other rules = Staff will decide depending on the situation.
+- Hacking changing the client functions & Exploiting & & Using cheating device/program or similar method = offending player will be excluded from the ongoing tournament and affected game will be forfeited by the offending team.
+
+- Breaking a rule concerning drafting, hereunder account sharing, not notifying opponent before draft about any account changes or substitutions = the draft can be done over again, and the offending team can lose bans depending on MXL Staff decision. 
+
+- Smurfing, harbouring a smurf or continous bad behavior, attemped smurfing and hiding peak rank of players = warnings, bans from playing, and/or disqualification of teams if needed.
+
+- Usage of all chat without agreed to, which go against our rules on all-chat = warning
+
+- Any other rules = Staff will decide depending on the situation.
+
+### 7.2 Warnings
+Getting 3 warnings means suspension from the next singular game.
+Getting 4 warnings means suspension from the next two singular games. 
+Getting 5 warnings means suspension from the next series. 
+Getting 6 warnings means suspension from playing the next 3 weeks.
+Getting 7 warnings means suspension from playing the rest of the split. 
 
 By applying for this league, you are hereby agreeing to all these rules. If found to be breaking any of them, you will be subjected to the punishments deemed appropriate by the staff team.
 
