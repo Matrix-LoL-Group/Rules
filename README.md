@@ -52,6 +52,7 @@ _Note: the "power score" is calculated as a sum of the "power scores" of the pla
 |      Division 1 | 260              |
 
 _Note: Masters players can not play in any division below Division 1._
+
 _Note: Diamond players can not play in any division below Division 2._
 
 ### 1.1.5 Secondary accounts I
@@ -167,9 +168,12 @@ The top 4 teams of every group will advance to the Play-Offs. 8 teams from each 
 
 #### 3.2.1 Teams seeding
 The team seeding will be as follows: CODER OF WORLDS FIX THIS
-| Seed 1A | Seed 4B |
+
+|         |         |
+|---------|---------|
+| Seed 1A | Sed 4B  |
 | Seed 2B | Seed 3A |
-| Seed 1B | Seed 4A |
+| Seen 1B | Seed 4A |
 | Seed 2A | Seed 3B |
 
 #### 3.2.2 Playoffs format
