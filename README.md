@@ -169,7 +169,7 @@ For every MXL's official game, it is mandatory to use the specific voice channel
 The top 4 teams of every group will advance to the Play-Offs. 8 teams from each division participates in the Play-Offs, in what will be a double elimination bracket. The Play-Offs last 6 weeks. 
 
 #### 3.2.1 Teams seeding
-The team seeding will be as follows: CODER OF WORLDS FIX THIS
+The team seeding will be as follows:
 
 |         |         |
 |---------|---------|
