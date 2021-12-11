@@ -43,17 +43,12 @@ _Note: the "power score" is calculated as a sum of the "power scores" of the pla
 |       Diamond 3 | 44                                                      |
 |       Diamond 2 | 52                                                      |
 |       Diamond 1 | 60                                                      |
-|  Master 0-100LP | 72                                                      |
-|Master 100-300LP | 100                                                     |
-|   Master 300-GM | 110                                                     |
 
 | Division in MXL | Max total points |
 | --------------: | :--------------- |
 |      Division 3 | 80               |
 |      Division 2 | 150              |
 |      Division 1 | 260              |
-
-_Note: Masters players can not play in any division below Division 1._
 
 _Note: Diamond players can not play in any division below Division 2._
 
