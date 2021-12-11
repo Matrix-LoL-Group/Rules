@@ -49,7 +49,7 @@ _Note: the "power score" is calculated as a sum of the "power scores" of the pla
 
 | Division in MXL | Max total points |
 | --------------: | :--------------- |
-|      Division 3 | 90               |
+|      Division 3 | 80               |
 |      Division 2 | 150              |
 |      Division 1 | 260              |
 
@@ -206,7 +206,10 @@ _Note: Follow the Discord server about any updates._
 - The Pick-&-Ban phase will be executed through DraftLoL - https://draftlol.dawe.gg/
 - The same Champions need to be banned when you're picking your champs in the client.
 - Every player picks his/hers own champion in the client no matter the draft order in DraftLoL.
-- 
+- You can not change which players will play the game, after the DraftLoL is done. This also applies to players swapping to their secondary accounts. This information must be communicated before the DraftLoL. 
+- The DraftLoL must be started within 15 minutes after the scheduled start time of the game to avoid a forfeit. 
+- If the DraftLoL is finished after 15 minutes after the scheduled start time of the game, both teams must instantly jump into the Client Draft. If incidents happen where the lobby crashes, or if a player is unable to log in to his/hers account, the Client Draft will start when everyone is back into the lobby again. 
+
 ### 3.7 Game Bugs
 A game will be restarted, and draft will be remade if game breaking bugs occur.
 If there is a fault that interrupts the loading of a player into a game, such as a BUGSPLAT or disconnection, the game must be immediately paused for up to 15 minutes.
@@ -379,9 +382,9 @@ Getting 4 warnings means suspension from the next two singular games.
 
 Getting 5 warnings means suspension from the next series. 
 
-Getting 6 warnings means suspension from playing the next 3 weeks.
+Getting 7 warnings means suspension from playing the next 3 series.
 
-Getting 7 warnings means suspension from playing the rest of the split. 
+Getting 9 warnings means suspension from playing the rest of the split. 
 
 
 By applying for this league, you are hereby agreeing to all these rules. If found to be breaking any of them, you will be subjected to the punishments deemed appropriate by the staff team.
