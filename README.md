@@ -212,6 +212,16 @@ A game will be restarted, and draft will be remade if game breaking bugs occur.
 If there is a fault that interrupts the loading of a player into a game, such as a BUGSPLAT or disconnection, the game must be immediately paused for up to 15 minutes.
 Pauses in the middle of the game are allowed if a player suddenly gets a game breaking issues like lag, FPS drop, disconnect, budsplash, "blue screen of death", etc.
 
+### 3.8 Default Times
+Each Division have a Default Time for their games, to show when the game will be played. The Default Times work as a suggestion to when you should play the game, if both teams are unable to find a good day for a reschedule. 
+- Division 1: Sundays 20:00 CET
+- Division 2: Sundays 20:00 CET
+- Division 3: Sundays 20:00 CET
+- Best of 5 games: Sundays 19:00 CET
+
+### 3.9 Scheduling/Rescheduling
+When a new week starts in the league, the Managers and/or Captains of the teams will communicate with the opposing team to find a day to play their game on. If they are unable to find a day that fit both teams or that the teams can agree on, they will play their game on the Default Time.
+
 ## 4. Stream
 
 ### 4.1 Streaming Regulations
