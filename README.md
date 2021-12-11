@@ -173,7 +173,7 @@ The team seeding will be as follows:
 
 |         |         |
 |---------|---------|
-| Seed 1A | Sed 4B  |
+| Seed 1A | Seed 4B |
 | Seed 2B | Seed 3A |
 | Seen 1B | Seed 4A |
 | Seed 2A | Seed 3B |
