@@ -1,6 +1,6 @@
 # Matrix League
 ## Rulebook
-## MXL Split 2 | January-February 2022
+## MXL Split 1 | January-March 2022
 # Introduction and Purpose
 These Official Rules of Matrix League (MXL) apply to each of the teams participating in the League in Split 1. Also apply to the Teams' Team Managers & Team Members and other employees. Everyone in the Matrix League must follow these rules, otherwise they will get penalized by the league management.
 
