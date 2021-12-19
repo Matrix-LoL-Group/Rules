@@ -25,6 +25,7 @@ If you didn't play Ranked Solo/Duo queue in Season 11, you must play at least 40
 
 ### 1.1.4 Team eligibility
 Teams are allowed to join if their "power score" is not too high for the division limit. To see the division limits, check below: 
+
 _Note: the "power score" is calculated as a sum of the "power scores" of the players. The "power score" of a player is based on his S11 peak rank as follows:_
 | LoL Peak Rank   | Score                                                   |
 | --------------: | :------------------------------------------------------ |
