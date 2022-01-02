@@ -21,7 +21,7 @@ Player's account must be on the European West server (EUW).
 ### 1.1.3 Player eligibility
 All participating players must have played Ranked Solo/Duo queue in Season 11, aka have a rank from this season. All participating players must also play at least 25 games of Ranked within February 6, 2022, with at least 15 of these being from Ranked Solo/Duo. This is to ensure every player is the owner of their account. The games must either be played on your main account on EUW, or your main account on any other server, if this is the case, but must all be on the same account. Your main account must also be at least level 50.
 
-If you didn't play Ranked Solo/Duo queue in Season 11, you must play at least 40 games of Ranked Solo/Duo within February 1, 2022. For these players the peak rank will also change, affecting the points of the team. You are in this case also unable to participate in the league at any point before you have played 30 games. 
+If you didn't play Ranked Solo/Duo queue in Season 11, you must play at least 40 games of Ranked Solo/Duo within February 6, 2022. For these players the peak rank will also change, affecting the points of the team. You are in this case also unable to participate in the league at any point before you have played 30 games. 
 
 ### 1.1.4 Team eligibility
 Teams are allowed to join if their "power score" is not too high for the division limit. To see the division limits, check below: 
