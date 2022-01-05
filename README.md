@@ -78,7 +78,7 @@ Here is a list of what we consider inappropriate in all the names.
 # 2. Teams
 
 ## 2.1 Roster Requirements
-Each team must have minimum 5 and maximum 10 players in their team. Other team members are not included in it (Coach, Team Manager etc.). Players can be swapped through-out the split until the play-offs start. Every team is allowed a maximum of 12 players through-out the split. Joining with 10 players consume 10 spots, meaning you have 2 swaps left.
+Each team must have minimum 5 and maximum 10 players in their team. Other team members are not included in it (Coach, Team Manager etc.). Players can be swapped through-out the split until the play-offs start. Every team is allowed a maximum of 12 players through-out the split. Joining with 10 players consume 10 spots, meaning you have 2 spots left.
 A new player to a team must be announced at least 24 hours before the next game, unless you wish to lose bans (see Rule 2.2.6).
 Teams have to register through the Google Forms Document in the Discord Server. 
 
