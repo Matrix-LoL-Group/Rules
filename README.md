@@ -279,14 +279,11 @@ An account that belongs to a player playing in Matrix League, can not be used in
 #### 6.1.5 League Sandbagging
 At staff discretion, players that consistently perform above the division standard that they are in, may be rejected further admission to play in the same and lower divisions. This is to keep competitive integrity for all involved.
 
-#### 6.1.6 Botted Accounts
-Accounts suspected to be levelled up through "botting" are suspended from playing in MXL until proven otherwise by the player. This is only the cause if it is the main account of the player that is a botted account. Botted accounts can still be accepted in certain cases, for example if these accounts are secondary accounts to a player for them to use if they lack champions. 
+#### 6.1.6 Secondary Accounts II
+An account that belongs to a player, but is not this player's main account, must be given or announced to the MXL Staff for it to be allowed to play. The reason for using a secondary account must be that you either lack champions on your main account, your main account is banned (the ban reason can effect if you are allowed to participate), or if your main account is on another server. In the last case, that account must also be communicated to the MXL Staff. When using a secondary account, this account must be listed in the squad report together with the main account, and if a player is to play on it, this must be announced before the draft starts.
 
 #### 6.1.7 Responsibility / Punishments
 Any player or organisational member, who is found to be knowingly having smurfs or people that account share playing with or for them will result in punishment as above. All games played by the team using these players will result in a forfeit and the results will be corrected accordingly.
-
-#### 6.1.8 Secondary Accounts II
-An account that belongs to a player, but is not this player's main account, must be given or announced to the MXL Staff for it to be allowed to play. The reason for using a secondary account must be that you either lack champions on your main account, your main account is banned (the ban reason can effect if you are allowed to participate), or if your main account is on another server. In the last case, that account must also be communicated to the MXL Staff. When using a secondary account, this account must be listed in the squad report together with the main account, and if a player is to play on it, this must be announced before the draft starts.
 
 #### 6.2 Competitive Conduct
 Repeated violations of what's listed below will result in penalties up to the discretion of the staff team. Unless expressly stated otherwise, offenses of these Official Rules are punishable whether or not they are committed intentionally.
