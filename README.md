@@ -223,6 +223,10 @@ Each Division have a Default Time for their games, to show when the game will be
 ### 3.9 Scheduling/Rescheduling
 When a new week starts in the league, the Managers and/or Captains of the teams will communicate with the opposing team to find a day to play their game on. If they are unable to find a day that fit both teams or that the teams can agree on, they will play their game on the Default Time.
 
+All games in group stage/regular split must be finished within the last sunday of stage 1 of the tournament aka. before the playoffs start. 
+
+Playoff games can not be rescheduled to a later week. It must be played in it's assigned week. 
+
 ## 4. Stream
 
 ### 4.1 Streaming Regulations
