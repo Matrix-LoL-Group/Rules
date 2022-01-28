@@ -98,7 +98,7 @@ Coaches are not exclusively bound to one team, meaning they can coach multiple t
 A team that is found to have broken enough rules the MXL Admins see fit, can be disqualified. All players from that team will be considered Free Agents unless stated as otherwise. All past and future games of this team will be forfeited.
 
 ### 2.1.6 Team Withdrawal
-A team may withdraw themselves for any reason or at any time. All players from that team will be considered Free Agents unless stated as otherwise.
+A team may withdraw themselves for any reason or at any time. All players from that team will be considered Free Agents unless stated as otherwise. For a team to withdraw, both the captain and manager must agree to this with written evidence to the MXL Staff. 
 
 ## 2.2 Roster Modification
 Rosters changes are allowed as long they are explicitly approved by the admins via the Tickets and in ChallengerMode.
@@ -142,6 +142,8 @@ Requirements to be met in adherence to team name/tag/logo rules.
 - Team names can be absurd, like "Milk Drinkers" etc. The team must have a unique name. Team name can be anything you want as long it doesnt break our rules, see Rule 1.2: Name conformity.
 
 - The Team name and Team Tag can be in other alphabets than latin and they can include numbers and signs. 
+
+- The Team name can be changed at any point before the playoffs start, as long as they meet the name requirements. 
 
 #### **2.3.2 Team Logo**
 
