@@ -156,8 +156,6 @@ Requirements to be met in adherence to team name/tag/logo rules.
 
 - Logo can be absurd and funny, as long as it doesnt go against our rules. 
 
-A member of the MXL staff must approve your logo. 
-
 _A member of the MXL staff must approve your logo_.
 
 
