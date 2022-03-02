@@ -108,7 +108,6 @@ A Team may substitute a player between matches. These changes must be announced 
 
 ### 2.2.2 Fill players
 A fill player is defined by a player that does not belong to the team the player is filling for. A fill player can belong to another team in this league, because the fill player is filling for one game/series. The fill must be listed in the squad-report, either as a starter or as a sub. The team using a fill player will lose 2 bans for each game the fill player is playing. The fill players' peak rank will be taken into consideration of the team's points to avoid it going over the max limit. It is the Team Manager and/or the Team Captain's responsibility to follow this.
-Fills cannot be used for Best of 5's.
 
 ### 2.2.3 Emergency Substitutes
 An emergency substitute is defined by a player that is brought to play for a team, in a short period of time before the game is to be played, without this player being listed in the squad-report. An emergency substitute can not be a current player in another team in Matrix League. For every game the emergency substitute is playing, the offending team will lose 3 bans.
